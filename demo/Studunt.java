@@ -7,5 +7,6 @@ public class Studunt {
         List<String> list= List.of("'a','bca','b'");
         System.out.println("hi, how are you?");
         System.out.println("hi, all");
+        System.out.println("fine");
     }
 }
